@@ -1,0 +1,14 @@
+{
+  "name": "node-mail",
+  "version": "1.0.0",
+  "description": "Testing node.js mailing using nodemailer module",
+  "main": "mail.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "IL Coder",
+  "license": "ISC",
+  "dependencies": {
+    "nodemailer": "^6.5.0"
+  }
+}
